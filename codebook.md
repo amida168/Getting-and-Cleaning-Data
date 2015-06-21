@@ -33,11 +33,12 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-The tidy data set is a wide set
+The tidy data set is a wide set with the average of each variable for each activity and each subject. Note that variables are normalized and bounded within [-1,1].
 The complete listing of variables:
-"subject_id"                  
-"activity"                    
-"tBodyAcc-mean()-X"          
+
+"subject_id": subject id                
+"activity": activity name                    
+"tBodyAcc-mean()-X" : mean of tBodyAcc-mean()-X. The rest of the variables follows the same pattern.  
 "tBodyAcc-mean()-Y"           
 "tBodyAcc-mean()-Z"           
 "tGravityAcc-mean()-X"       
@@ -89,10 +90,10 @@ The complete listing of variables:
 "tGravityAccMag-std()"        
 "tBodyAccJerkMag-std()"       
 "tBodyGyroMag-std()"         
-tBodyGyroJerkMag-std()"      
+"tBodyGyroJerkMag-std()"      
 "fBodyAcc-std()-X"            
 "fBodyAcc-std()-Y"           
-fBodyAcc-std()-Z"            
+"fBodyAcc-std()-Z"            
 "fBodyAccJerk-std()-X"        
 "fBodyAccJerk-std()-Y"       
 "fBodyAccJerk-std()-Z"        

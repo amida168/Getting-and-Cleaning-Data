@@ -9,7 +9,7 @@ CODEBOOK.md - code book describing the tidy data set
 
 run_analysis.R - R script to process the data and transform it to a tidy data set
 
-UCI HAR Dataset/ - data downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+UCI HAR Dataset/ - data downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. See the README.txt file in the folder for the description of this raw data set.
 
 
 The script file does the following steps:

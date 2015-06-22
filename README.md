@@ -5,7 +5,7 @@ The project have the following files/folder:
 
 - **README.md** - this file
 
-- **CODEBOOK.md** - code book describing the tidy data set
+- **codebook.md** - code book describing the tidy data set
 
 - **run_analysis.R** - R script to process the data and transform it to a tidy data set
 

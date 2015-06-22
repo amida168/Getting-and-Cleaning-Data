@@ -67,10 +67,14 @@ The complete listing of variables:
 "fBodyGyro-mean()-X"          
 "fBodyGyro-mean()-Y"         
 "fBodyGyro-mean()-Z"          
-"fBodyAccMag-mean()"          
+"fBodyAccMag-mean()"
+
 "fBodyBodyAccJerkMag-mean()" 
+
 "fBodyBodyGyroMag-mean()"     
+
 "fBodyBodyGyroJerkMag-mean()" 
+
 "tBodyAcc-std()-X"           
 "tBodyAcc-std()-Y"           
 "tBodyAcc-std()-Z"            
